@@ -1,0 +1,27 @@
+.wrapper {
+    width: 800px !important;
+    margin: 0 auto;
+}
+
+img {
+    border-style: none;
+}
+
+.card-search {
+    border-color: #e4e4ff !important;
+}
+
+.table tr td last-child {
+    width: 120px;
+    font-size: xx-small;
+}
+
+.fa-trash:before {
+    font-size: x-large !important;
+    justify-content: center;
+}
+
+.fa-pencil:before {
+    font-size: x-large;
+    justify-content: center;
+}
